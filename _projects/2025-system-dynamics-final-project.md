@@ -10,6 +10,6 @@ The final group assignment for MAE 3260 - System Dynamics asked to model a syste
 
 For this assignment I used our state space and PD controller models to write a MATLAB script showing the sailboat's heading angle over time compared to a reference angle to show the effectiveness of our PD controller affecting the rudder angle that ultimatly drives our boat. 
 
-![PDF of code and plot]({{ "/assets/sailboat_simulation.pdf" | relative_url }})
+[PDF of code and plot]({{ "/assets/sailboat_simulation.pdf" | relative_url }})
 
 
