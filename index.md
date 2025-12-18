@@ -6,7 +6,7 @@ title: Emily Gamez-Garcia
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/portfolioheadshot.JPEG" | relative_url }}){: class="profile-image"}
 
  
 Hello! My name is {{ site.name }}, and I am a mechanical engineering student at Cornell University in search of a summer 2026 internship. 
