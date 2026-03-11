@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Heat Transfer Homework Reflection
-description: A Holistic Analysis of the Boeing 737 Max Incidents Functions
+description: 
 technologies: 
 image: 
 ---
